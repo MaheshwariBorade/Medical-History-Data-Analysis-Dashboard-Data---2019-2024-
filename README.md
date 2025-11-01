@@ -1,6 +1,6 @@
-# Medical History Data Analysis Dashboard (2019–2024)
+# Medical History Data Analysis Dashboard (Data-2019–2024)
 
-This project is an Excel-based dashboard developed by a fresher to analyze 55,000+ patient records from 2019 to 2024. It features interactive Pivot Tables, charts, slicers, and advanced Excel formulas to provide insights into medical conditions, billing, insurance data, admission types, and test results.
+This project is an Excel-based dashboard developed to analyze 55,000+ patient records from 2019 to 2024. It features interactive Pivot Tables, charts, slicers, and advanced Excel formulas to provide insights into medical conditions, billing, insurance data, admission types, and test results.
 
 ## Features
 
